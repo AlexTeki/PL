@@ -8,4 +8,5 @@
   
 <li>課程筆記區：</li>
 <li>作業連結區：</li>
+[HW1](https://github.com/AlexTeki/PL/blob/main/HW1/HW1.ipynb)
 <li>專題連結區：</li>
