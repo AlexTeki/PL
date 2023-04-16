@@ -12,4 +12,6 @@
   + [`課程筆記區`]
   + [`作業連結區`]
     + [`HW1`](https://github.com/AlexTeki/PL/blob/main/HW1/HW1.ipynb)
+    + [`HW2`](https://github.com/AlexTeki/PL/blob/main/HW1/HW1.ipynb)
+    + [`HW3`]()
   + [`專題連結區`]
