@@ -9,6 +9,7 @@
 
 ---
 + [`課程筆記區`]
+  + [`Week7`](https://github.com/AlexTeki/PL/blob/main/Notes/Week%207.txt)
 + [`作業連結區`]
   + [`HW1`](https://github.com/AlexTeki/PL/blob/main/HW1/HW1.ipynb)
   + [`HW2`](https://github.com/AlexTeki/PL/blob/main/HW2/HW2.ipynb)
