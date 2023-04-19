@@ -16,3 +16,5 @@
   + [`HW3-1-ptt`](https://github.com/AlexTeki/PL/blob/main/HW3/HW3.ipynb)
   + [`HW3-2-lawplus`](https://github.com/AlexTeki/PL/blob/main/HW3/lawplus%E7%B7%B4%E7%BF%92.ipynb)
 + [`專題連結區`]
+---
+![](https://giphy.com/gifs/laclippers-nba-la-clippers-NG5HONR3DcKhvHF2nc)
