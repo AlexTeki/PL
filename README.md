@@ -17,6 +17,6 @@
   + [`HW3-2-lawplus`](https://github.com/AlexTeki/PL/blob/main/HW3/lawplus%E7%B7%B4%E7%BF%92.ipynb)
 + [`專題連結區`]
 ---
-<time datetime="2022-04-20T10:30:00+08:00" content="10:30am (GMT+8)">2022年4月20日上午10:30</time>
+現在的時間是：{{ "now" | date: "%Y-%m-%d %H:%M:%S %z" }}
 
 
