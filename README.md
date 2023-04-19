@@ -18,4 +18,4 @@
 + `專題連結區`
 ---
 ### 雜項
-  + [`Pract1
+  + [`Pract1`](https://github.com/AlexTeki/PL/blob/main/HW3/nogi4th.ipynb)
