@@ -8,15 +8,13 @@
 
 + **系級:東亞系四年級**
 ---
-+ [`課程筆記區`]
++ `課程筆記區`
   + [`Week7`](https://github.com/AlexTeki/PL/blob/main/Notes/Week%207.text)
-+ [`作業連結區`]
++ `作業連結區`
   + [`HW1`](https://github.com/AlexTeki/PL/blob/main/HW1/HW1.ipynb)
   + [`HW2`](https://github.com/AlexTeki/PL/blob/main/HW2/HW2.ipynb)
   + [`HW3-1-ptt`](https://github.com/AlexTeki/PL/blob/main/HW3/HW3.ipynb)
   + [`HW3-2-lawplus`](https://github.com/AlexTeki/PL/blob/main/HW3/lawplus%E7%B7%B4%E7%BF%92.ipynb)
-+ [`專題連結區`]
++ `專題連結區`
 ---
-現在的時間是：{{ "now" | date: "%Y-%m-%d %H:%M:%S %z" }}
-
-
+### 雜項
