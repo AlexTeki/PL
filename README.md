@@ -17,5 +17,6 @@
   + [`HW3-2-lawplus`](https://github.com/AlexTeki/PL/blob/main/HW3/lawplus%E7%B7%B4%E7%BF%92.ipynb)
 + [`專題連結區`]
 ---
-<iframe src="https://free.timeanddate.com/clock/i7zdud23/n1680/szw160/szh160/hocfff/hbw0/hfcf00/cf100/hncfff/hwc000/fas20/fdi75/mqcfff/mqs2/mql10/mqw4/mqd98/mhcfff/mhs2/mhl10/mhw4/mhd98/hhw4/hmw4/hmr4" frameborder="0" width="160" height="160"></iframe>
+<time datetime="2022-04-20T10:30:00+08:00" content="10:30am (GMT+8)">2022年4月20日上午10:30</time>
+
 
